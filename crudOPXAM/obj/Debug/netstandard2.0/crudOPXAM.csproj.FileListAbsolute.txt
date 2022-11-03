@@ -1,0 +1,15 @@
+C:\Users\Infinitaz\source\repos\crudOPXAM\crudOPXAM\bin\Debug\netstandard2.0\crudOPXAM.deps.json
+C:\Users\Infinitaz\source\repos\crudOPXAM\crudOPXAM\bin\Debug\netstandard2.0\crudOPXAM.dll
+C:\Users\Infinitaz\source\repos\crudOPXAM\crudOPXAM\bin\Debug\netstandard2.0\ref\crudOPXAM.dll
+C:\Users\Infinitaz\source\repos\crudOPXAM\crudOPXAM\bin\Debug\netstandard2.0\crudOPXAM.pdb
+C:\Users\Infinitaz\source\repos\crudOPXAM\crudOPXAM\obj\Debug\netstandard2.0\crudOPXAM.csproj.AssemblyReference.cache
+C:\Users\Infinitaz\source\repos\crudOPXAM\crudOPXAM\obj\Debug\netstandard2.0\crudOPXAM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Infinitaz\source\repos\crudOPXAM\crudOPXAM\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Infinitaz\source\repos\crudOPXAM\crudOPXAM\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Infinitaz\source\repos\crudOPXAM\crudOPXAM\obj\Debug\netstandard2.0\crudOPXAM.AssemblyInfoInputs.cache
+C:\Users\Infinitaz\source\repos\crudOPXAM\crudOPXAM\obj\Debug\netstandard2.0\crudOPXAM.AssemblyInfo.cs
+C:\Users\Infinitaz\source\repos\crudOPXAM\crudOPXAM\obj\Debug\netstandard2.0\crudOPXAM.csproj.CoreCompileInputs.cache
+C:\Users\Infinitaz\source\repos\crudOPXAM\crudOPXAM\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Infinitaz\source\repos\crudOPXAM\crudOPXAM\obj\Debug\netstandard2.0\crudOPXAM.dll
+C:\Users\Infinitaz\source\repos\crudOPXAM\crudOPXAM\obj\Debug\netstandard2.0\ref\crudOPXAM.dll
+C:\Users\Infinitaz\source\repos\crudOPXAM\crudOPXAM\obj\Debug\netstandard2.0\crudOPXAM.pdb
